@@ -1,0 +1,208 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.link a{
+    color: black;
+}
+.link{
+    margin-left: 220px;
+    margin-top: 15px;
+}
+.page{
+    margin-top: -30px;
+}
+
+.back{
+   
+    background: rgba(0,0,0,0.5)url('images/bg2.jpg'); 
+    width: 100%;
+    height: 720px;
+    background-blend-mode: darken;
+    background-size: cover;
+   
+}
+.text{
+    margin-top: -390px;
+}
+.email{
+ padding: 10px;
+ padding-right: 200px;
+    margin-left: 330px;
+
+}
+h5{
+    color: #071e55;
+}
+.feat{
+    margin-left: 170px;
+}
+.img_1{
+  margin-left: -15px;
+    margin-top: -15px;
+    filter: opacity(0.5);
+}
+.img_2{ 
+
+    margin-top: -18px;
+    filter: opacity(0.5);
+   
+}
+.img_3{
+  margin-left: -30px;
+    margin-top: -15px;
+    filter: opacity(0.5);
+}
+.img_4{ 
+
+   margin-top: 35px;
+    filter: opacity(0.5);
+   
+}
+.img_1:hover{
+    filter: opacity(1);
+}
+
+.img_2:hover{
+    filter: opacity(1);
+}
+.img_3:hover{
+    filter: opacity(1);
+}
+.img_4:hover{
+    filter: opacity(1);
+}
+.icon{
+    font-size: 70px;
+    margin-left: 70px;
+
+}
+.icon_1{
+    font-size: 70px;
+    margin-left: 70px;
+
+}
+.icon_2{
+    font-size: 60px;
+    margin-left: 70px;
+}
+.grey{
+    background-color: #F5F5F5;
+    /* opacity: 0.9; */
+}
+.para_1{
+    font-size: 17px;
+}
+.para_2{
+    font-size: 17px;
+}
+
+.para_3{
+    font-size: 16px;
+}
+.img{
+    width: 450px;
+}
+/* .image{
+    background: #e52f37 ; opacity: 1; 
+    
+    
+} */
+.fun{
+    margin-left: 270px;
+    
+
+}
+.agency{
+    background-color:#e52f37 ;
+width: 100%;
+height: 500px;
+
+}
+.fun_1{
+    margin-top: 150px;
+}
+.pic_1{
+    width: 350px;
+    height: 300px;
+    margin-left: 100px;
+    
+    
+}
+.pic_2{
+    width: 350px;
+    height: 300px;
+    margin-left: 820px;
+    margin-top: -340px;
+}
+.pic_3{
+    width: 350px;
+    height: 300px;
+    margin-left: 820px;
+    
+}
+.pic_4{
+    width: 340px;
+    height: 600px;
+    margin-left: 465px;
+    margin-top: -680px;
+    
+}
+.pic_5{
+    width: 350px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: -380px;
+    
+    
+}
+.team_1{
+    width: 340px;
+    height: 340px;
+}
+.head{
+    margin-left: 90px;
+}
+.head_1{
+    margin-left: 55px;
+}
+.team_2{
+    width: 315px;
+    height: 340px;
+}
+.cls{
+    background-color: #e52f37;
+    color: white;
+    
+}
+.row input{
+    background-color: #e52f37;
+    width: 250px;
+    margin-right: 10px !important;
+    height: 45px;
+    color: white !important;
+    opacity: 1;
+    border: 1px solid white !important; 
+}
+.row textarea{
+    background-color: #e52f37;
+    color: white !important;
+    border: 1px solid white !important; 
+    
+}
+.text_1{
+    color: white !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
